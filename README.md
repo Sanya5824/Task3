@@ -1,4 +1,5 @@
-SQLite Project Summary
+SQLite Project Summary:
+
 Downloaded SQLite Tools:
 Downloaded the SQLite command-line tools (sqlite-tools-win-x64) from the official SQLite website.
 
